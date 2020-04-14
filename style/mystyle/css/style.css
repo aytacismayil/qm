@@ -67,7 +67,7 @@ button:focus {
     padding-top: 100px;
 }
 .section-1-part{
-    padding: 80px 0;
+    padding: 93px 0;
 }
 .we-help{
     font-family: 'Open Sans';
@@ -133,7 +133,7 @@ button:focus {
     height: 54.18px;
     position: absolute;
     right: 58px;
-    top: 79px;
+    top: 92px;
 }
 /* section 2 */
 .section-2-row{
@@ -215,8 +215,9 @@ button:focus {
     margin-top: 10px;
 }
 .section-4-div-img{
-    width: 75%;
+    width: 85%;
     height: 100%;
+    object-fit: contain;
 }
 .section-4-div-i{
     width: 100%;
@@ -721,7 +722,7 @@ color: #FFFFFF;
     font-style: normal;
     font-weight: 100;
     font-size: 15px;
-    line-height: 30px;
+    line-height: 36px;
     color: #FFFFFF;
 }
 .foteer-icon{
@@ -730,7 +731,7 @@ color: #FFFFFF;
     margin-top: 8px;
 }
 .footer-all-section{
-    padding: 0 40px;
+    padding: 0 0px;
 }
 .sosial-icon{
     width: 43px;
@@ -770,13 +771,17 @@ color: #FFFFFF;
 .sas{
     margin: 0!important;
 }
-
+.sli-all-title-1{
+    padding-top: 67px;
+    padding-bottom: 40px;
+}
 /* page 2 */
 .margin-row-top{
-    margin-top:90px;
+    margin-top:0px;
 }
 .sli-all-title{
-   padding-top: 44px;
+    padding-top: 106px;
+    padding-bottom: 50px;
 }
 .sli-title{
     font-family: 'Open Sans';
@@ -789,7 +794,6 @@ color: #FFFFFF;
 .sli-h2{
     font-family: 'Open Sans';
     font-style: normal;
-    font-weight: bold;
     font-size: 70px;
     line-height: 35px; 
     color:#444A59;   
@@ -958,4 +962,71 @@ td{
 .sli-login-register:hover{
     color: #AA3459;
     text-decoration: none;
+}
+
+
+.page-3-p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 20px;
+    color: #444A59;    
+}
+.page-3-all-p{
+    background: #F7F7F7;
+    padding: 40px 0;
+}
+.gelenal-all{
+    margin: 40px 0;
+}
+.generel-data
+{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 54px;
+    color: #444A59;    
+}
+.whi-page{
+    font-size: 15px;
+    line-height: 20px;
+    color: #444A59;  
+    font-family: 'Open Sans';
+    font-weight: bold;
+
+}
+.data-sli{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 55px;
+    line-height: 35px;
+    color: #444A59;
+}
+.whi-pageul{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 20px;
+    color: #444A59;    
+}
+.gelenal-all ul{
+    padding-left: 20px;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+.gelenal-all li{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 15px;
+    line-height: 30px;
+    color: #444A59;
+    font-weight: 300;
+       
+}
+.sli-all-title-1 .sli-title{
+    font-size: 60px;
+    line-height: 70px;
 }
