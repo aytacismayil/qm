@@ -147,7 +147,7 @@ button:focus {
 }
 .logo-partnyor{
     height: 50px;
-    width: calc(20% - 0) ;
+    width: 20%!important ;
     display: inline;
     text-align: center;
 }
