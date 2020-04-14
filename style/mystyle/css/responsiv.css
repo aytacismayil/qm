@@ -12,11 +12,20 @@
         font-size: 138px;
         line-height: 129px;
     }
+    .alone-2 {
+        margin-top: 56px!important;
+    }
     .smile-img {
         width: 35px;
         height: 34.18px;
-        right: 88px;
-        top: 110px;
+        right: 75px;
+        top: 105px;
+    }
+    .price-name-down{
+        font-size: 14px;
+    }
+    .sli-menu {
+        transform: translate(0 ,0);
     }
     .feedback {
         font-size: 20px;
@@ -25,6 +34,7 @@
         width: 100%;
         height: 345px;
         margin: 30px 0;
+        transform: translate(0,0);
     }
     .button-try {
         margin-top: 20px;
@@ -80,8 +90,8 @@
     .smile-img {
         width: 28px;
         height: 28.18px;
-        right: 28px;
-        top: 70px;
+        right: 42px;
+        top: 90px;
     }
     .feedback {
         font-size: 15px;
@@ -90,6 +100,7 @@
         width: 100%;
         height: 268px;
         margin: 37px 0;
+        transform: translate(0,0);
     }
     .button-try {
         margin-top: 5px;
@@ -116,7 +127,10 @@
         height: 350px;
     }
     .section-4-div-img {
-        width: 80%;
+        width: 90%;
+    }
+    .content-section-6 {
+      width: auto;
     }
     .collect {
         font-size: 30px;
@@ -154,11 +168,31 @@
     .price-name {
         font-size: 17px;
     }
+    .price-name-down{
+        font-size: 11px;
+    }
     .price-line {
         width: 180px;
     }
+    .alone-2 {
+        margin-top: 33px!important;
+    }
+    .price-num {
+        line-height: 29px;
+    }
+    .fa-circle {
+        font-size: 8px;
+        transform: translate(-62px, -2px);
+    }    
+    .price-month {
+        font-size: 18px;
+    }
     .manat {
         font-size: 30px!important;
+    }
+    .negotiable {
+        padding: 8px;
+        font-size: 17px;
     }
     .price-list-all {
         padding: 10px 3px;
@@ -167,7 +201,10 @@
         padding: 0 0px;
     }
     .l-h4 {
-        font-size: 9px;
+        font-size: 12px;
+    }
+    .section-1-row {
+        padding-top: 60px;
     }
     .sli-h2 {
         font-size: 45px;
@@ -244,6 +281,9 @@
     .section-7-img {
         object-fit: contain;
     }
+    .section-4-div-i {
+        text-align: center;
+    }
     .col-mom{
         padding: 0 30px;
     }
@@ -254,6 +294,12 @@
         width: 100%;
         height: 124px;
         margin: auto;
+    }
+    .price-num {
+        line-height: 20px;
+    }
+    .butpas-2 {
+        margin-left: 0;
     }
     .section-6-login-all {
         width: 260px;
@@ -304,6 +350,7 @@
         width: 100%;
         height: 237px;
         margin: 5px 0;
+        transform: translate(0,0);
     }
     .section-3-row {
         margin: 20px 0;

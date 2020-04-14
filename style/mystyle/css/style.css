@@ -16,9 +16,13 @@ button:focus {
     width: 100%;
     background-color: white;
 }
+.sli-menu{
+    transform: translate(30px ,0);
+}
 .logo-div{
     width: 121px;
     height: 30px;
+    object-fit: contain;
 }
 .sli-log{
     width: 55px;
@@ -63,7 +67,7 @@ button:focus {
     padding-top: 100px;
 }
 .section-1-part{
-    padding: 90px 0;
+    padding: 80px 0;
 }
 .we-help{
     font-family: 'Open Sans';
@@ -84,6 +88,7 @@ button:focus {
     font-size: 170px;
     line-height: 138px;
     color: #444A59;
+    margin-left: -11px;
 }
 .feedback{
     font-family: 'Open Sans';
@@ -113,18 +118,22 @@ button:focus {
     width: 504px;
     height: 404px;
     margin: 30px 0;
+    transform: translate(-40px,0);
 }
 .mac-phone-img{
     width: 100%;
     height: 100%;
+    object-fit: contain;
 }
-.smile-img{
+.navbar-light .navbar-nav .nav-link {
+    color: #444A59!important;
+}
+.smile-img {
     width: 55px;
     height: 54.18px;
     position: absolute;
-    right: 75px;
-    top: 82px;
-
+    right: 58px;
+    top: 79px;
 }
 /* section 2 */
 .section-2-row{
@@ -132,6 +141,9 @@ button:focus {
 }
 .section-2-all-logo{
     display: flex;
+}
+.butpas-2{
+   margin-left: 40px;
 }
 .logo-partnyor{
     height: 50px;
@@ -143,6 +155,7 @@ button:focus {
     width: 90%;
     height: 100%;
     object-fit: scale-down;
+    
 }
 
 /* section-3 */
@@ -179,6 +192,7 @@ button:focus {
     width: 36px;
     height: 41px;
     margin-top: 10px;
+    transform: translate(0,10px);
     object-fit: contain;
 }
 .ready{
@@ -208,7 +222,7 @@ button:focus {
     width: 100%;
     height: 404px;
     display: inline-block;
-    text-align: center;
+    text-align: right;
 }
 /* section -5 */
 .collect{
@@ -265,7 +279,7 @@ button:focus {
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
-    line-height: 20px;
+    line-height: 15px;
     letter-spacing: 0.08em;
     margin-top: 9px;
     cursor: pointer;
@@ -409,7 +423,7 @@ button:focus {
     height: 100%;   
 }
 .section-7-row{
-    padding: 50px 0;
+    padding:60px 0;
 }
 .button-secter{
     text-align: center;
@@ -442,20 +456,33 @@ button:focus {
 }
 
 .price-list-all{
-    padding: 30px 10px;  
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;  
 
 }
 .price-name{
     color: #AA3459;
     font-family: 'Open Sans', sans-serif;
-    font-size: 26px;
     height: 55px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+}
+.price-num{
+    line-height: 34px;
+}
+.alone-2{
+    margin-top: 55px!important;
 }
 .price-name-down{
-    color: #7f8c8d;
-    font-size: 10px;
     font-family: 'Open Sans', sans-serif;
-    padding: 6px 0;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+
+    
+    color: #444A59;
 }
 .price-month{
     color: #AA3459;
@@ -474,7 +501,8 @@ button:focus {
 .get-started-section{
     width: 200px;
     height: 40px;
-    margin: 30px 0;  
+    margin-top: 30px;
+    margin-bottom: 19px;  
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: bold;
@@ -640,13 +668,13 @@ button:focus {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 27px;
     color: #444A59;
 }
 .fa-circle{
     font-size: 8px;
-    transform: translate(-48px, -2px);
+    transform: translate(-93px, -2px);
 }
 .sli-line{
     width: 50px;
@@ -665,7 +693,7 @@ button:focus {
 
 .section-10-color{
     background: #F6F6F6;
-    padding: 30px 0;
+    padding: 6px 0;
 }
 .section-10-all a{
     text-decoration: none;
