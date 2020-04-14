@@ -226,6 +226,18 @@
         height: 183px;
         object-fit: contain;
     }
+    .term-span {
+        font-size: 58px;
+        line-height: 95px;
+    }
+    .term h1 {
+        font-size: 45px;
+        line-height: 95px;
+    }
+    .term {
+        padding: 45px 0;
+        text-align: center;
+    }
   
 }
 @media only screen and (min-width: 426px) and (max-width: 767px)  {
@@ -550,6 +562,18 @@
         font-size: 30px;
         line-height: 37px;
         padding: 10px 0;
+    }
+    .term-span {
+        font-size: 30px;
+        line-height: 95px;
+    }
+    .term h1 {
+        font-size: 23px;
+    }
+    .term {
+        padding-bottom: 40px;
+        padding-top: 7px;
+        text-align: center;
     }
 }
 

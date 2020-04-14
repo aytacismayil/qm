@@ -1030,3 +1030,35 @@ td{
     font-size: 60px;
     line-height: 70px;
 }
+.term-row{
+    margin-top:50px;
+}
+.term{
+    padding: 80px 0;
+    text-align: center;
+}
+.term h1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 60px;
+    line-height: 95px;
+    text-transform: capitalize;
+}
+.term-span{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 95px;
+    text-transform: capitalize;
+    color: #AA3459;   
+}
+.basliq-team {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+    
+    color: #444A59;    
+}
