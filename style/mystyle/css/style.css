@@ -1059,6 +1059,8 @@ td{
     font-weight: bold;
     font-size: 15px;
     line-height: 20px;
-    
     color: #444A59;    
+}
+a:hover{
+    text-decoration: none;
 }
