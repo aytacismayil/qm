@@ -342,6 +342,9 @@ button:focus {
     border-radius: 5px;
     margin: 20px 0;
 }
+.form-control:focus {
+    box-shadow: none;
+}
 .input-name {
     text-align: start;
     font-size: 14px;
@@ -350,7 +353,7 @@ button:focus {
     background-color: white!important;
     border: 1px solid white!important;
     font-family:' Open Sans';
-    font-style: italic;
+    
     font-weight: 300;
     font-size: 15px;
     line-height: 20px;
@@ -390,6 +393,7 @@ button:focus {
     font-size: 15px;
     line-height: 20px;
     color: #FFFFFF;
+    cursor: pointer;
     margin-top: 35px;
 }
 /* section 7 */
@@ -473,8 +477,11 @@ button:focus {
 .price-num{
     line-height: 34px;
 }
-.alone-2{
+.margin-booo{
     margin-top: 55px!important;
+}
+.alone-2{
+    margin-top: 22px!important;
 }
 .price-name-down{
     font-family: 'Open Sans', sans-serif;
@@ -556,7 +563,7 @@ button:focus {
     position: absolute;
     top: -10px;
     width: 150px;
-    background-color:#FFFFFF;
+    background-color:white!important;
     text-align: center;
 }
 .button-try:hover{
