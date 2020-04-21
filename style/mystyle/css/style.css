@@ -525,7 +525,7 @@ button:focus {
     border: 1px solid #f789BB;
 }
 .negotiable{
-    padding: 8px;
+    padding: 8px 0;
     font-size: 30px;
     color: #F688BA!important;
 }
@@ -682,7 +682,7 @@ button:focus {
 }
 .fa-circle{
     font-size: 8px;
-    transform: translate(-93px, -2px);
+    transform: translate(-104px, -2px);
 }
 .sli-line{
     width: 50px;
