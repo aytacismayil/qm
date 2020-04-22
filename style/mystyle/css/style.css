@@ -336,6 +336,8 @@ button:focus {
     background-color: white!important;
     border: 1px solid white!important;
     color: white!important;
+    padding-right: 7px;
+
 }
 .input-all{
     border: 1px solid #B73D69!important;
@@ -347,15 +349,13 @@ button:focus {
 }
 .input-name {
     text-align: start;
-    font-size: 14px;
+    font-size: 13px;
     border-top-right-radius: 5px!important;
     border-bottom-right-radius: 5px!important;
     background-color: white!important;
     border: 1px solid white!important;
-    font-family:' Open Sans';
-    
+    font-family: 'Open Sans';
     font-weight: 300;
-    font-size: 15px;
     line-height: 20px;
     color: #444A59;
 }
@@ -481,21 +481,27 @@ button:focus {
     margin-top: 55px!important;
 }
 .alone-2{
-    margin-top: 22px!important;
+    margin-top: 54px!important;
 }
 .price-name-down{
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 15px;
-
-    
     color: #444A59;
 }
 .price-month{
     color: #AA3459;
     font-size: 22px;
     font-family: 'Open Sans', sans-serif;   
+    position: relative;
+}
+.form-control {
+    padding-left: 3px;
+}
+.m-ay{
+   display: inline-block;
+   transform: translate(0px, -17px);
 }
 .price-line{
     width: 100%;
@@ -1070,4 +1076,10 @@ td{
 }
 a:hover{
     text-decoration: none;
+}
+.sli-img-left-booton{
+    position: absolute;
+    left: 229px;
+    bottom: 77px;
+    width: 81px;
 }
