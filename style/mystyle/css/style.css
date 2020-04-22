@@ -1083,3 +1083,6 @@ a:hover{
     bottom: 77px;
     width: 81px;
 }
+.mob-sli-icon{
+    display: none;
+}

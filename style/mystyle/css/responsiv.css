@@ -348,6 +348,18 @@
         width: 56px;
         margin-bottom: 10px;
     }
+    .mob-sli-icon{
+        display:inline-block;
+    }
+    .komp-sli-icon{
+        display: none;
+    }
+    .navbar-collapse{
+        background-color: #AA3459;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: white!important;
+    }
 
     .sli-menu {
        transform: translate(0px ,0);
