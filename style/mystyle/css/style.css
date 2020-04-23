@@ -685,7 +685,9 @@ button:focus {
     font-size: 20px;
     line-height: 27px;
     color: #444A59;
+   
 }
+
 .fa-circle{
     font-size: 8px;
     transform: translate(-104px, -2px);
