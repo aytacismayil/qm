@@ -676,7 +676,7 @@
 }
 
 
-  @media only screen and (min-width: 1800px) and (max-width: 2000px)  {
+  @media only screen and (min-width: 1200px) and (max-width: 2000px)  {
     .section-1-row {
         padding-top: 203px;
     }
