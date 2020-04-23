@@ -404,6 +404,7 @@
     }
     .butpas-2 {
         margin-left: 0;
+        margin-bottom: 10px;
     }
     .section-6-login-all {
         width: 300px;
@@ -447,6 +448,7 @@
     }
     .section-1-part {
         padding: 25px 0;
+        
     }
     .mac-phone-img {
         object-fit: contain;
@@ -668,7 +670,7 @@
 }
 @media only screen and (min-width: 370px) and (max-width: 391px)  {
     .smile-img {
-        right: 69px;
+        right: 64px;
         top: 37px;
     }
 }
