@@ -674,7 +674,7 @@
         top: 37px;
     }
 }
-@media only screen and (min-width: 1600px) and (max-width: 1799px)  {
+@media only screen and (min-width: 1400px) and (max-width: 1799px)  {
     .section-1-row {
         padding-top: 150px;
     }
